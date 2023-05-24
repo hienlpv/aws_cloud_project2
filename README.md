@@ -8,9 +8,9 @@
 
     + repositories : https://github.com/hienlpv/aws_cloud_project2
 
-    + develop branch: https://github.com/TrungLeIT/Cloud-AWS-Study/tree/development
+    + develop branch: https://github.com/hienlpv/aws_cloud_project2/tree/develop
 
-    + production branch: https://github.com/TrungLeIT/Cloud-AWS-Study/tree/production
+    + production branch: https://github.com/hienlpv/aws_cloud_project2/tree/production
 
 ## Image URL for test
 
